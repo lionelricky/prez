@@ -22,6 +22,7 @@ color: darkorange;
 h2{
 	font-size:28px;
 	color: darkblue;
+	border: 1px black solid;
 	}
 
 ol, ul{
